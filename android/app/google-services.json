@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "578296156300",
+    "firebase_url": "https://booking-sonata-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "booking-sonata",
+    "storage_bucket": "booking-sonata.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578296156300:android:52badcb7449492d4716ba9",
+        "android_client_info": {
+          "package_name": "kr.jm.booking_sonata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIv3DWSim0J75zQDB8qPvrPZ9-VomQsWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
